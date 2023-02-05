@@ -10,5 +10,8 @@ public class TomApplication {
 		SpringApplication.run(TomApplication.class, args);
 	}
 
+	public void add() {
+		
+	}
 	
 }
