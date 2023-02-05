@@ -21,4 +21,7 @@ public class TomApplication {
 	public void stub() {
 		
 	}
+	
+	public void gitstatus(){
+	}
 }
