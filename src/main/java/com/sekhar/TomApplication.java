@@ -12,4 +12,8 @@ public class TomApplication {
 
 	public static void add(){
 	}
+	
+	public void stub() {
+		
+	}
 }
