@@ -13,9 +13,6 @@ public class TomApplication {
 	public static void add(){
 	}
 	
-	public void club() {
-		
-	}
 	
 	
 	public void stub() {
