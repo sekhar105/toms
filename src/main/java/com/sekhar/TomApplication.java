@@ -10,15 +10,4 @@ public class TomApplication {
 		SpringApplication.run(TomApplication.class, args);
 	}
 
-	public static void add(){
-	}
-	
-	
-	
-	public void stub() {
-		
-	}
-	
-	public void gitstatus(){
-	}
 }
